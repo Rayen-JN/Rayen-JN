@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/rayencodecraft"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </p>
 <div align="center">
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t5orows12zj98au5j6u996ssfx525vje5pte5pdc&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 200px; height: 50px; left: 0px; top: 0px; opacity: 1;">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t5orows12zj98au5j6u996ssfx525vje5pte5pdc&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 300px; height: 200px; left: 0px; top: 0px; opacity: 1;">
 </div>
 </br>
 
