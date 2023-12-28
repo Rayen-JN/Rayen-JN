@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">RAYEN</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/Rayen-JN">RAYEN</a></h3>
 
 
 ## :iphone: Socials
