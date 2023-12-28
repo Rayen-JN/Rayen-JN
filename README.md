@@ -9,6 +9,8 @@
 <a href="https://linkedin.com/in/rayencodecraft"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </p>
 
+</br>
+
 ## Languages and Tools
 
 <p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
