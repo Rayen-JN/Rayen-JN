@@ -5,6 +5,11 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/Rayen-JN">RAYEN</a></h3>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100082337747453"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+
+<a href="https://instagram.com/_rayen_jouini"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+
+<a href="https://www.facebook.com/profile.php?id=100082337747453"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rayen_jouini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayencodecraft) 
 </p>
