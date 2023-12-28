@@ -15,7 +15,7 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" width="600px"  src="https://github-readme-stats.vercel.app/api?username=Rayen-JN&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+<img height="300px" width="600px"  src="https://github-readme-stats.vercel.app/api?username=Rayen-JN&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 
 
