@@ -13,9 +13,8 @@
 
 ## Languages and Tools
 
-<p align="center"> <a href="https://github.com/thinkright20">
-<img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs">
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a> </p>
+<p align="center"> <a href="https://github.com/Rayen-JN">
+<img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"></a> </p>
 
 
 
