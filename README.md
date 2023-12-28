@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=let's%20connect%20and%20collaborate%20on%20exciting%20projects;Software%20Engineering%20Student;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineering%20Student;2+%2B%20years%20of%20coding%20experience;Check%20out%20my%20GitHub%20profile&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Rayen-JN">RAYEN</a></h3>
