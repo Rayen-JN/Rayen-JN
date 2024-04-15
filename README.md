@@ -9,7 +9,8 @@
 <a href="https://linkedin.com/in/rayencodecraft"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="center">
-![github](https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif)
+  
+<img height="200px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
 </p>
 </br>
 
