@@ -14,7 +14,9 @@
 ## Languages And Tools
 
 <p align="center"> <a href="https://github.com/Rayen-JN">
-<img src="https://skillicons.dev/icons?i=css,html,js,bash,c,py,mysql,md,vscode,github,mongodb,flask,git,linux,discord,emacs,notion,vim"></a> </p>
+<img src="https://skillicons.dev/icons?i=css,html,js,bash,c,py,mysql,md,vscode">
+<img src="https://skillicons.dev/icons?i=github,mongodb,flask,git,linux,discord,emacs,notion,vim">
+</a> </p>
 
 ## Activity On GitHub
 
