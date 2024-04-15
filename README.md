@@ -8,10 +8,7 @@
 <a href="https://instagram.com/_rayen_jouini"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rayencodecraft"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </p>
-<p align="center">
-  
-<img height="380px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
-</p>
+
 </br>
 
 ## Languages and Tools
@@ -19,7 +16,10 @@
 <p align="center"> <a href="https://github.com/Rayen-JN">
 <img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,bash,c,flask,git,linux,py"></a> </p>
 
-
+<p align="center">
+  
+<img height="380px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
+</p>
 
 ## Activity On GitHub
 <p align="center">
