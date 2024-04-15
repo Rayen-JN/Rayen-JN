@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img height="290px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
+<img height="288px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
 </p>
 <p align="center">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayen-JN&theme=radical&hide_border=true">
