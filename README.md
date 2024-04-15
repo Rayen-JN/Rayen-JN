@@ -11,11 +11,14 @@
 
 </br>
 
-## Languages and Tools
+## Languages
 
 <p align="center"> <a href="https://github.com/Rayen-JN">
-<img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,bash,c,flask,git,linux,py,mysql"></a> </p>
+<img src="https://skillicons.dev/icons?i=css,html,js,bash,c,py,mysql"></a> </p>
 
+## Tools
+<p align="center"> <a href="https://github.com/Rayen-JN">
+<img src="https://skillicons.dev/icons?i=vscode,github,mongodb,flask,git,linux"></a> </p>
 
 ## Activity On GitHub
 
