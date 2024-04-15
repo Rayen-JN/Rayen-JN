@@ -16,10 +16,6 @@
 <p align="center"> <a href="https://github.com/Rayen-JN">
 <img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,bash,c,flask,git,linux,py"></a> </p>
 
-<p align="center">
-  
-<img height="380px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
-</p>
 
 <p align="center">
 
