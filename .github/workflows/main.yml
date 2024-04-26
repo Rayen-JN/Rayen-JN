@@ -40,6 +40,11 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          palette: |
+            background: "#ffffff"
+            snake: "#000000"
+            apple: "#ff0000"
+            line: "none" # Set line color to none to remove i
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           palette: github-dark?line=none
