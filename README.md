@@ -19,16 +19,7 @@
 </a> </p>
 
 ## Activity On GitHub
-<div align="center">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayen-Jn/Rayen-Jn/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayen-JN/Rayen-JN/output/github-contribution-grid-snake.svg">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rayen-JN/Rayen-JN/output/github-contribution-grid-snake.svg" width="530" height="200">
-        </picture>
-</div>
-<p align="center">
-<img height="284px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
-</p>
+
 <p align="center">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayen-JN&theme=radical&hide_border=true">
 </p>
@@ -36,4 +27,11 @@
 <img height="220px" src="https://github-readme-stats.vercel.app/api?username=Rayen-JN&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 
+<div align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayen-Jn/Rayen-Jn/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayen-JN/Rayen-JN/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rayen-JN/Rayen-JN/output/github-contribution-grid-snake.svg" width="800" height="200">
+        </picture>
+</div>
 ---
