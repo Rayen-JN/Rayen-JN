@@ -42,5 +42,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          palette: |
-          line: "none" 
+          palette: github-dark?line=none
