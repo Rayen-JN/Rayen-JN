@@ -34,4 +34,5 @@
             <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rayen-JN/Rayen-JN/output/github-contribution-grid-snake.svg" width="800" height="200">
         </picture>
 </div>
+
 ---
