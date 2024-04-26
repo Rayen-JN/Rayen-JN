@@ -19,7 +19,6 @@
 </a> </p>
 
 ## Activity On GitHub
-
 <div align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayen-Jn/Rayen-Jn/output/github-contribution-grid-snake-dark.svg">
@@ -28,7 +27,6 @@
         </picture>
 </div>
 <p align="center">
-
 <img height="284px" src="https://github.com/Rayen-JN/holbertonschool-AirBnB_clone_v2/assets/135613265/8450c40d-fa95-4d65-8b59-bfc0096aae82.gif">
 </p>
 <p align="center">
